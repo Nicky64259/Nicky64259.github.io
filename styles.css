@@ -1,7 +1,7 @@
 body {
   background-color: Azure;
 } 
-h1 {
+.mainStyling h1 {
   color: Teal;
   text-align: center;
 } 
