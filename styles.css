@@ -4,12 +4,12 @@ body {
 
 
 
-.mainStyling h1 {
+h1.mainStyling {
   color: Teal;
   text-align: center;
 } 
 
-.introduction p {
+p.introduction {
    color:lightblue;
    text-align:center;
 }
